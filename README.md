@@ -47,7 +47,7 @@
 
 
 ####   Game Programmer(Unreal Engine) <br/>
-####   Studying Webprogramming <br/>
+####   Studying Webprogramming(FrontEnd&DevOps Engineer) <br/>
 ####   Computer Science(B.S.) & Economics(B.S.) <br/>
 ####   
 </div>
