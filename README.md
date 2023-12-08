@@ -36,8 +36,8 @@
   🇰🇷 Korean(Native) 
   🇯🇵 Japanese(Business)
 
-  ![Chiikawa's github stats](https://github-readme-stats.vercel.app/api?username=Chiiikawa&show_icons=true)
-  [![Chiiikawa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiiikawa&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=tokyonight)](https://github.com/chiiikawa)
+  [![Chiiikawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiiikawa&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/Chiiikawa/github-readme-stats)
+  [![Chiiikawa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiiikawa&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/chiiikawa)
 
 
 ####   Game Programmer(Unreal Engine) <br/>
