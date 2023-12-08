@@ -28,6 +28,8 @@
   <a href="https://twitter.com/dev_Chiiikawa"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://open.kakao.com/o/seVSlnWf"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"/></a>
   <a href="https://twitter.com/dev_Chiiikawa"><img src="https://img.shields.io/badge/velog-20c997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Chiiikawa)](https://velog.io/@Chiiikawa) 
+
 
   <br/>
 
@@ -44,4 +46,5 @@
 ####   Studying Webprogramming(FrontEnd&DevOps Engineer) <br/>
 ####   Computer Science(B.S.) & Economics(B.S.) <br/>
 ####   
+
 </div>
