@@ -11,19 +11,12 @@
   <br/>
   
   <a href="https://www.unrealengine.com/en-US/unreal-engine-5?gclid=CjwKCAiA98WrBhAYEiwA2WvhOqf8MSRRVD8eQxQm5UTxwYQlxvVgvieSPi5xux5n4aRVeotRCDIEnhoCneQQAvD_BwE"><img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/></a>
-  
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  
   <a href="https://azure.microsoft.com/en-us"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
-  
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  
   <a href="https://aws.amazon.com/free/?nc1=h_ls&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-
   <a href="https://www.oracle.com/kr/java/technologies/downloads/"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></a>
-
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-
   <br/>
   
   ####  :postbox: Contact Me
