@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
   <a href="https://twitter.com/dev_Chiiikawa"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://open.kakao.com/o/seVSlnWf"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"/></a>
-  <a href="https://twitter.com/dev_Chiiikawa"><img src="https://img.shields.io/badge/velog-181717?style=for-the-badge&logo=velog&logoColor=white"/></a>
+  <a href="https://twitter.com/dev_Chiiikawa"><img src="https://img.shields.io/badge/velog-20c997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 
   <br/>
 
@@ -37,7 +37,7 @@
   🇯🇵 Japanese(Business)
 
   ![Chiikawa's github stats](https://github-readme-stats.vercel.app/api?username=Chiiikawa&show_icons=true)
-  [![Chiiikawa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiiikawa&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/chiiikawa)
+  [![Chiiikawa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiiikawa&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=tokyonight)](https://github.com/chiiikawa)
 
 
 ####   Game Programmer(Unreal Engine) <br/>
