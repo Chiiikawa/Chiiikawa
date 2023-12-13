@@ -14,10 +14,11 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <a href="https://azure.microsoft.com/en-us"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <a href="https://aws.amazon.com/free/?nc1=h_ls&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white"/></a>
-  <a href="https://www.oracle.com/kr/java/technologies/downloads/"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></a>
+  <a href="https://aws.amazon.com/free/?nc1=h_ls&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all"><img src="[https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)"/></a>
+  <a href="https://www.oracle.com/kr/java/technologies/downloads/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" />
   <br/>
   
   ####  :postbox: Contact Me
